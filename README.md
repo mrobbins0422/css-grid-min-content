@@ -14,6 +14,7 @@ in order to improve the responsiveness of my designs.
 ## Credits  
 
 [Practical use of CSS Grid min-content](https://til.cybertec-postgresql.com/post/2019-09-15-Practical-use-of-CSS-Grid-min-content/)  
+
 [A Pen by Lorenz Henk](https://codepen.io/lorenzhenk/pen/dybKKMO?editors=1100)  
 
 Which led me to:  

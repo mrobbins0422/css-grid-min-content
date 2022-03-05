@@ -18,7 +18,9 @@ in order to improve the responsiveness of my designs.
 
 Which led me to:  
 
-[Intrinsic Sizing In CSS](https://ishadeed.com/article/intrinsic-sizing-in-css/)  
+[Use Cases For CSS fit-content](https://ishadeed.com/snippet/fit-content/)   
+
+[Intrinsic Sizing In CSS](https://ishadeed.com/article/intrinsic-sizing-in-css/)   
 
 Which I intend to research further.  
 

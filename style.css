@@ -1,0 +1,24 @@
+#root {
+  display:flex;
+  justify-content: space-between;
+}
+
+.grid {
+  width: 40%;
+  display: grid;
+  grid-template-rows: min-content auto min-content;
+  height: 250px;
+  background: lightgreen;
+}
+
+.header-filter {
+  background: orange;
+}
+
+.table {
+  overflow: auto
+}
+
+.footer-pagination {
+  background: lightblue;
+}

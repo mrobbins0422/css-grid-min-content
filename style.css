@@ -2,7 +2,6 @@
   display:flex;
   justify-content: space-between;
 }
-
 .grid {
   width: 40%;
   display: grid;
@@ -10,15 +9,12 @@
   height: 250px;
   background: lightgreen;
 }
-
 .header-filter {
   background: orange;
 }
-
 .table {
   overflow: auto
 }
-
 .footer-pagination {
   background: lightblue;
 }

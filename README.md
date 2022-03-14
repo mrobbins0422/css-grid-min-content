@@ -4,12 +4,12 @@
 
 I came across some code I want to turn into a card component.  
 I takes advantage of the CSS min-content property.  
+The author is using tables but I'm considering using the concept in dropdown menus and modals.
 
 ## Further Study  
 
 I intend to learn more about intrinsic and extrinsic sizing 
 in order to improve the responsiveness of my designs.
-
 
 ## Credits  
 
